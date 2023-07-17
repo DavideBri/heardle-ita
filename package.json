@@ -22,7 +22,7 @@
     "react-kofi-button": "^0.7.1",
     "react-player": "^2.10.1",
     "react-scripts": "5.0.1",
-    "react-select": "^5.2.2",
+    "react-select": "^5.7.4",
     "redux": "^4.2.0",
     "typescript": "^4.6.2",
     "uid": "^2.0.2",
